@@ -2,7 +2,7 @@ export default function InstagramSection() {
   const instagramImages = [
     "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=400&h=400&fit=crop",
     "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&w=400&h=400&fit=crop",
-    "https://images.unsplash.com/photo-1594736797933-d0db1ac3c93f?ixlib=rb-4.0.3&w=400&h=400&fit=crop",
+    "https://images.unsplash.com/photo-1509631179647-0177331693ae?ixlib=rb-4.0.3&w=400&h=400&fit=crop",
     "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?ixlib=rb-4.0.3&w=400&h=400&fit=crop",
     "https://images.unsplash.com/photo-1559563458-527698bf5295?ixlib=rb-4.0.3&w=400&h=400&fit=crop",
     "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-4.0.3&w=400&h=400&fit=crop",

@@ -97,7 +97,7 @@ export class MemStorage implements IStorage {
         description: "Handwoven traditional dress with authentic African patterns",
         price: 12000, // $120.00
         category: "bitengye",
-        imageUrl: "https://images.unsplash.com/photo-1594736797933-d0db1ac3c93f?ixlib=rb-4.0.3",
+        imageUrl: "https://images.unsplash.com/photo-1583391733956-6c78276477e2?ixlib=rb-4.0.3",
         featured: true,
         createdAt: new Date(),
       },
@@ -147,7 +147,7 @@ export class MemStorage implements IStorage {
         description: "Contemporary African fashion with modern silhouette",
         price: 15000, // $150.00
         category: "contemporary",
-        imageUrl: "https://images.unsplash.com/photo-1594736797933-d0db1ac3c93f?ixlib=rb-4.0.3",
+        imageUrl: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-4.0.3",
         featured: true,
         createdAt: new Date(),
       },
@@ -167,7 +167,7 @@ export class MemStorage implements IStorage {
         description: "Traditional ceremonial garment for special occasions",
         price: 20000, // $200.00
         category: "bitengye",
-        imageUrl: "https://images.unsplash.com/photo-1594736797933-d0db1ac3c93f?ixlib=rb-4.0.3",
+        imageUrl: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?ixlib=rb-4.0.3",
         featured: false,
         createdAt: new Date(),
       },
